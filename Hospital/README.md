@@ -50,7 +50,6 @@ This screenshot shows the inpatient information, consultation fee, room charge, 
 This screenshot shows the outpatient information, consultation fee, laboratory charge, and total bill.
 
 ![Outpatient Output](Screenshots/OutPatientScreenshot.png)
-
 ## Tools Used
 
 - Java
