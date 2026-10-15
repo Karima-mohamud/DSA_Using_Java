@@ -1,6 +1,6 @@
 package Hospital;
 
-public class Patient {
+public abstract class Patient {
     // creating data fields
     public String Name;
     public double consultFee;
@@ -9,10 +9,8 @@ public class Patient {
         this.Name = Name;
         this.consultFee =consultFee;
     }
-    //method for calculating
-    public double CalculateBill(){
-        return consultFee;
-    }
+    //abstract method for calculating
+    public abstract double CalculateBill();
     //displaying
     public void displayInfo(){
         System.out.println("Patient name : "+Name);

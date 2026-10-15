@@ -2,10 +2,13 @@ package Hospital;
 
 public class Main {
     static void main() {
+        //creating objects for inpatient
         Patient p1 = new InPatient("Ali",7,40,5);
         Patient p2 = new InPatient("Xaawo",10,30,3);
+        //creating objects for outpatients
         Patient p3 = new OutPatient("Zaynab",5,49);
         Patient p4 = new OutPatient("xasan",8,60);
+        //Displaying the output
         System.out.println("---Inpatient information--- ");
         System.out.println( );
         p1.displayInfo();
