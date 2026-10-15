@@ -49,7 +49,7 @@ This screenshot shows the inpatient information, consultation fee, room charge, 
 
 This screenshot shows the outpatient information, consultation fee, laboratory charge, and total bill.
 
-![Outpatient Output](Screenshots/OutPatientScreenshot.png)
+![Outpatient Output](https://github.com/Karima-mohamud/DSA_Using_Java/raw/main/Hospital/Screenshots/OutPatientScreenshot.png)
 ## Tools Used
 
 - Java
